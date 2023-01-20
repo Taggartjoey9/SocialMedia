@@ -1,8 +1,9 @@
 import './App.css';
+import ShowSocial from './ShowSocial';
 
 function App() {
   return (
-    <div>hey</div>
+    <ShowSocial />
   );
 }
 
